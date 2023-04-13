@@ -164,13 +164,13 @@ GRID - 1
 
 
 .transform-img{
-    background-image:  url(/images/mobile/image-transform.jpg);
+    background-image:  url(./images/mobile/image-transform.jpg);
     background-size: 100% 100%;
     padding: 10rem;
 }
 
 .stand-out-img{
-    background-image: url(/images/mobile/image-stand-out.jpg);
+    background-image: url(./images/mobile/image-stand-out.jpg);
     background-size: 100% 100%;
     padding: 10rem;
 }
